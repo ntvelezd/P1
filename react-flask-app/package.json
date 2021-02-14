@@ -11,6 +11,10 @@
     "react-scripts": "4.0.2",
     "web-vitals": "^1.0.1"
   },
+  
+   
+    
+  
   "scripts": {
     "start": "react-scripts start",
     "start-api": "cd api && venv/bin/flask run --no-debugger",
